@@ -16,4 +16,4 @@ Go ahead and use it as your own "hello world," I don't really mind it.
 Ah yes, now this file's a doozy. 
 When I realized that you can increment char values in C, I just had to go crazy go stupid with it.
 So I made this forever loop so that it'll print out the ASCII characters in ascending order, then overflow and start over again!
-...Ok, fine, I also added one which printed out all ASCII one time so that it won't instantly brick your computer. Woop dee do.
+...Ok, fine, I also added one which printed out all characters one time so that it won't instantly brick your computer. Woop dee do.
