@@ -9,10 +9,11 @@ Please, come a take a look!
 ## operations.py
 I *could* consider this as my sort of "hello world" for Python, but not necessarily as a replacement.
 Still, this is a good way to see if Python's input, operation, and output commands still work!
+Go ahead and use it as your own "hello world," I don't really mind it.
 
 
 ## ascii_code.c
-Ah yes, this block of code. 
+Ah yes, now this file's a doozy. 
 When I realized that you can increment char values in C, I just had to go crazy go stupid with it.
 So I made this forever loop so that it'll print out the ASCII characters in ascending order, then overflow and start over again!
 ...Ok, fine, I also added one which printed out all ASCII one time so that it won't instantly brick your computer. Woop dee do.
