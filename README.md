@@ -3,7 +3,7 @@ Welcome to my repository of personal codes where I just code whatever I want on 
 It could be anything, from something trivial to something that could break your computer once you run it.
 
 Please, come a take a look!
-
+-----
 
 ## operations.py
 I *could* consider this as my sort of "hello world" for Python, but not necessarily as a replacement.
