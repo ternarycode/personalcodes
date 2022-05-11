@@ -17,3 +17,8 @@ Ah yes, now this file's a doozy.
 When I realized that you can increment char values in C, I just had to go crazy go stupid with it.
 So I made this forever loop so that it'll print out the ASCII characters in ascending order, then overflow and start over again!
 ...Ok, fine, I also added one which printed out all characters one time so that it won't instantly brick your computer. Woop dee do.
+
+## rock_paper_scissors.c
+So I got bored during my break week. I decided to code this little, almost barebones game of rock-paper-scissors with a computer.
+The computer randomly picks a number between 1 and 3, which corresponds to either (R)ock, (P)aper, or (S)cissors.
+You pick one of the three as well as input, and it shows who wins. It also has a play again mechanic, if you ever want to play again!
